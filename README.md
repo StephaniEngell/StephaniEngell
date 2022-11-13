@@ -25,7 +25,11 @@ Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>&nbsp;Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"/> </h3>
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/stephani-engel/">
+<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/stephaniengel/">
+<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 </div>
 
 <p align="center">
@@ -42,11 +46,7 @@ Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 
 
  <div align="center">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/stephani-engel/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/stephaniengel/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stephani-engel.netlify.app/">
+<a " target="_blank" href="https://stephani-engel.netlify.app/"> 
 		
 
       </div>
