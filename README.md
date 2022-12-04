@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>, I'm <a href="https://github.com/StephaniEngell?tab=repositories/" target="blank">
+
 Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 <h3 align="center">A passionate Front-End from Nova Andradina-MS, Brazil.</h3>
 
@@ -15,7 +16,7 @@ Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 
 - 🌱 I’m currently learning about front-end on <a href="https://plataforma.devclub.com.br/area/vitrine" target="blank">DevClub</a>
 
-- 📫 How to reach me: *stephaniengel18@gmail.com*
+- 📫 How to reach me: *stephaniengel18@gmail.com*  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 - 💬 Ask me about *Reactjs & JavaScript*
   <summary>☎️ contact me
@@ -37,12 +38,17 @@ Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 <p  align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
  </p>
+ 
 
  
 
 | My statistic                                                                                                                                                            | Main languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=StephaniEngell&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephaniEngell&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
+
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
+
+
 
 
  <div align="center">
