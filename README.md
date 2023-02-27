@@ -50,11 +50,6 @@ Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=StephaniEngell&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephaniEngell&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
 
 
-
-
-
- <div align="center">
-<a " target="_blank" href="https://stephani-engel.netlify.app/"> 
-		
-
-      </div>
+<p align="center">
+	<a href="https://stephani-engel.netlify.app/">Visit Stephani Engel</a>
+</p>
