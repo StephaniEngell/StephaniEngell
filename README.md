@@ -11,7 +11,7 @@ Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 </a>
 
 
-- 🔭 I'm currently Working on DevClub <img src="https://cdn.areademembros.com/files/instancia_731//image/IzGj9VI7SfhyHELZfY07yC4y21EeTBzhj0G3rxCh.png" width="25" height="18"/>
+- 🔭 I'm currently Working on DevClub <img src="https://cdn.areademembros.com/files/instancia_731//image/IzGj9VI7SfhyHELZfY07yC4y21EeTBzhj0G3rxCh.png" width="25" height="25"/>
 
 - 🌱 I have been concentrating on ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
