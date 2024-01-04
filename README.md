@@ -17,7 +17,7 @@ Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 Learning about fullstack on <a href="[https://alunos.b7web.com.br/](https://www.origamid.com/conta/)" target="blank">Origamid</a>
+- 🌱 Learning about fullstack on <a href="https://www.origamid.com/conta/" target="blank">Origamid</a>
 
 - 📫 How to reach me: *stephaniengel18@gmail.com*  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
