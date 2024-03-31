@@ -1,4 +1,4 @@
-<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
+<p align="Center" ><img src="https://i.pinimg.com/originals/da/2c/da/da2cdace73ddf9ee428d30f17a840b89.gif" height="350px" width ="350px"></p>
 
 
 <h1 align="center">Hi<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>I'm<a href="https://github.com/StephaniEngell?tab=repositories/" target="blank">
@@ -11,7 +11,7 @@ Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 </a>
 
 
-- 🔭 I'm currently Working on Dopster.io <img src="https://media.licdn.com/dms/image/C4D0BAQFx6UiMQRnerQ/company-logo_200_200/0/1639417919851/dopster_logo?e=1710374400&v=beta&t=LSkCzhJgSKdgb22qs4_Igav11o8ak-7JoTSxwnq92zM" width="25" height="25"/>
+- 🔭 I'm currently Working on iFood <img src="https://escaesco.com.br/wp-content/uploads/2023/08/Ifood.jpg" width="25" height="25"/>
 
 - 🌱 I have been concentrating on ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
