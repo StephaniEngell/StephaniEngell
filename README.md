@@ -11,7 +11,7 @@ Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 </a>
 
 
-- 🔭 I'm currently Working on iFood <img src="https://escaesco.com.br/wp-content/uploads/2023/08/Ifood.jpg" width="25" height="25"/>
+- 🔭 I'm currently Working on iFood <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/IFood_logo.svg/1280px-IFood_logo.svg.png" width="35" height="12"/>
 
 - 🌱 I have been concentrating on ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
